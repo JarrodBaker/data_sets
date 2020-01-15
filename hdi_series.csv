@@ -1,0 +1,1512 @@
+1990-01-01,Norway,0.850
+2000-01-01,Norway,0.917
+2010-01-01,Norway,0.942
+2013-01-01,Norway,0.946
+2015-01-01,Norway,0.948
+2016-01-01,Norway,0.951
+2017-01-01,Norway,0.953
+2018-01-01,Norway,0.954
+1990-01-01,Switzerland,0.832
+2000-01-01,Switzerland,0.889
+2010-01-01,Switzerland,0.932
+2013-01-01,Switzerland,0.938
+2015-01-01,Switzerland,0.943
+2016-01-01,Switzerland,0.943
+2017-01-01,Switzerland,0.943
+2018-01-01,Switzerland,0.946
+1990-01-01,Ireland,0.764
+2000-01-01,Ireland,0.857
+2010-01-01,Ireland,0.890
+2013-01-01,Ireland,0.908
+2015-01-01,Ireland,0.926
+2016-01-01,Ireland,0.936
+2017-01-01,Ireland,0.939
+2018-01-01,Ireland,0.942
+1990-01-01,Germany,0.801
+2000-01-01,Germany,0.869
+2010-01-01,Germany,0.920
+2013-01-01,Germany,0.927
+2015-01-01,Germany,0.933
+2016-01-01,Germany,0.936
+2017-01-01,Germany,0.938
+2018-01-01,Germany,0.939
+1990-01-01,"Hong Kong, China (SAR)",0.781
+2000-01-01,"Hong Kong, China (SAR)",0.827
+2010-01-01,"Hong Kong, China (SAR)",0.901
+2013-01-01,"Hong Kong, China (SAR)",0.916
+2015-01-01,"Hong Kong, China (SAR)",0.927
+2016-01-01,"Hong Kong, China (SAR)",0.931
+2017-01-01,"Hong Kong, China (SAR)",0.936
+2018-01-01,"Hong Kong, China (SAR)",0.939
+1990-01-01,Australia,0.866
+2000-01-01,Australia,0.898
+2010-01-01,Australia,0.926
+2013-01-01,Australia,0.926
+2015-01-01,Australia,0.933
+2016-01-01,Australia,0.935
+2017-01-01,Australia,0.937
+2018-01-01,Australia,0.938
+1990-01-01,Iceland,0.804
+2000-01-01,Iceland,0.861
+2010-01-01,Iceland,0.892
+2013-01-01,Iceland,0.920
+2015-01-01,Iceland,0.927
+2016-01-01,Iceland,0.932
+2017-01-01,Iceland,0.935
+2018-01-01,Iceland,0.938
+1990-01-01,Sweden,0.816
+2000-01-01,Sweden,0.897
+2010-01-01,Sweden,0.906
+2013-01-01,Sweden,0.927
+2015-01-01,Sweden,0.932
+2016-01-01,Sweden,0.934
+2017-01-01,Sweden,0.935
+2018-01-01,Sweden,0.937
+1990-01-01,Singapore,0.718
+2000-01-01,Singapore,0.818
+2010-01-01,Singapore,0.909
+2013-01-01,Singapore,0.923
+2015-01-01,Singapore,0.929
+2016-01-01,Singapore,0.933
+2017-01-01,Singapore,0.934
+2018-01-01,Singapore,0.935
+1990-01-01,Netherlands,0.830
+2000-01-01,Netherlands,0.876
+2010-01-01,Netherlands,0.911
+2013-01-01,Netherlands,0.924
+2015-01-01,Netherlands,0.927
+2016-01-01,Netherlands,0.929
+2017-01-01,Netherlands,0.932
+2018-01-01,Netherlands,0.933
+1990-01-01,Denmark,0.799
+2000-01-01,Denmark,0.863
+2010-01-01,Denmark,0.910
+2013-01-01,Denmark,0.926
+2015-01-01,Denmark,0.926
+2016-01-01,Denmark,0.928
+2017-01-01,Denmark,0.929
+2018-01-01,Denmark,0.930
+1990-01-01,Finland,0.784
+2000-01-01,Finland,0.858
+2010-01-01,Finland,0.903
+2013-01-01,Finland,0.916
+2015-01-01,Finland,0.919
+2016-01-01,Finland,0.922
+2017-01-01,Finland,0.924
+2018-01-01,Finland,0.925
+1990-01-01,Canada,0.850
+2000-01-01,Canada,0.868
+2010-01-01,Canada,0.895
+2013-01-01,Canada,0.910
+2015-01-01,Canada,0.917
+2016-01-01,Canada,0.920
+2017-01-01,Canada,0.921
+2018-01-01,Canada,0.922
+1990-01-01,New Zealand,0.820
+2000-01-01,New Zealand,0.870
+2010-01-01,New Zealand,0.899
+2013-01-01,New Zealand,0.907
+2015-01-01,New Zealand,0.914
+2016-01-01,New Zealand,0.917
+2017-01-01,New Zealand,0.920
+2018-01-01,New Zealand,0.921
+1990-01-01,United Kingdom,0.775
+2000-01-01,United Kingdom,0.867
+2010-01-01,United Kingdom,0.905
+2013-01-01,United Kingdom,0.914
+2015-01-01,United Kingdom,0.916
+2016-01-01,United Kingdom,0.918
+2017-01-01,United Kingdom,0.919
+2018-01-01,United Kingdom,0.920
+1990-01-01,United States,0.860
+2000-01-01,United States,0.881
+2010-01-01,United States,0.911
+2013-01-01,United States,0.914
+2015-01-01,United States,0.917
+2016-01-01,United States,0.919
+2017-01-01,United States,0.919
+2018-01-01,United States,0.920
+1990-01-01,Belgium,0.806
+2000-01-01,Belgium,0.873
+2010-01-01,Belgium,0.903
+2013-01-01,Belgium,0.908
+2015-01-01,Belgium,0.913
+2016-01-01,Belgium,0.915
+2017-01-01,Belgium,0.917
+2018-01-01,Belgium,0.919
+1990-01-01,Liechtenstein,NAN
+2000-01-01,Liechtenstein,0.862
+2010-01-01,Liechtenstein,0.904
+2013-01-01,Liechtenstein,0.912
+2015-01-01,Liechtenstein,0.912
+2016-01-01,Liechtenstein,0.915
+2017-01-01,Liechtenstein,0.916
+2018-01-01,Liechtenstein,0.917
+1990-01-01,Japan,0.816
+2000-01-01,Japan,0.855
+2010-01-01,Japan,0.885
+2013-01-01,Japan,0.900
+2015-01-01,Japan,0.906
+2016-01-01,Japan,0.910
+2017-01-01,Japan,0.913
+2018-01-01,Japan,0.915
+1990-01-01,Austria,0.795
+2000-01-01,Austria,0.838
+2010-01-01,Austria,0.895
+2013-01-01,Austria,0.896
+2015-01-01,Austria,0.906
+2016-01-01,Austria,0.909
+2017-01-01,Austria,0.912
+2018-01-01,Austria,0.914
+1990-01-01,Luxembourg,0.790
+2000-01-01,Luxembourg,0.860
+2010-01-01,Luxembourg,0.893
+2013-01-01,Luxembourg,0.892
+2015-01-01,Luxembourg,0.899
+2016-01-01,Luxembourg,0.904
+2017-01-01,Luxembourg,0.908
+2018-01-01,Luxembourg,0.909
+1990-01-01,Israel,0.792
+2000-01-01,Israel,0.853
+2010-01-01,Israel,0.887
+2013-01-01,Israel,0.895
+2015-01-01,Israel,0.901
+2016-01-01,Israel,0.902
+2017-01-01,Israel,0.904
+2018-01-01,Israel,0.906
+1990-01-01,Korea (Republic of),0.728
+2000-01-01,Korea (Republic of),0.817
+2010-01-01,Korea (Republic of),0.882
+2013-01-01,Korea (Republic of),0.893
+2015-01-01,Korea (Republic of),0.899
+2016-01-01,Korea (Republic of),0.901
+2017-01-01,Korea (Republic of),0.904
+2018-01-01,Korea (Republic of),0.906
+1990-01-01,Slovenia,0.829
+2000-01-01,Slovenia,0.824
+2010-01-01,Slovenia,0.881
+2013-01-01,Slovenia,0.884
+2015-01-01,Slovenia,0.886
+2016-01-01,Slovenia,0.892
+2017-01-01,Slovenia,0.899
+2018-01-01,Slovenia,0.902
+1990-01-01,Spain,0.754
+2000-01-01,Spain,0.825
+2010-01-01,Spain,0.865
+2013-01-01,Spain,0.875
+2015-01-01,Spain,0.885
+2016-01-01,Spain,0.888
+2017-01-01,Spain,0.891
+2018-01-01,Spain,0.893
+1990-01-01,Czechia,0.730
+2000-01-01,Czechia,0.796
+2010-01-01,Czechia,0.862
+2013-01-01,Czechia,0.874
+2015-01-01,Czechia,0.882
+2016-01-01,Czechia,0.885
+2017-01-01,Czechia,0.888
+2018-01-01,Czechia,0.891
+1990-01-01,France,0.780
+2000-01-01,France,0.842
+2010-01-01,France,0.872
+2013-01-01,France,0.882
+2015-01-01,France,0.888
+2016-01-01,France,0.887
+2017-01-01,France,0.890
+2018-01-01,France,0.891
+1990-01-01,Malta,0.744
+2000-01-01,Malta,0.787
+2010-01-01,Malta,0.847
+2013-01-01,Malta,0.861
+2015-01-01,Malta,0.877
+2016-01-01,Malta,0.881
+2017-01-01,Malta,0.883
+2018-01-01,Malta,0.885
+1990-01-01,Italy,0.769
+2000-01-01,Italy,0.830
+2010-01-01,Italy,0.871
+2013-01-01,Italy,0.873
+2015-01-01,Italy,0.875
+2016-01-01,Italy,0.878
+2017-01-01,Italy,0.881
+2018-01-01,Italy,0.883
+1990-01-01,Estonia,0.730
+2000-01-01,Estonia,0.780
+2010-01-01,Estonia,0.844
+2013-01-01,Estonia,0.863
+2015-01-01,Estonia,0.871
+2016-01-01,Estonia,0.875
+2017-01-01,Estonia,0.879
+2018-01-01,Estonia,0.882
+1990-01-01,Cyprus,0.731
+2000-01-01,Cyprus,0.799
+2010-01-01,Cyprus,0.850
+2013-01-01,Cyprus,0.854
+2015-01-01,Cyprus,0.864
+2016-01-01,Cyprus,0.869
+2017-01-01,Cyprus,0.871
+2018-01-01,Cyprus,0.873
+1990-01-01,Greece,0.753
+2000-01-01,Greece,0.796
+2010-01-01,Greece,0.857
+2013-01-01,Greece,0.858
+2015-01-01,Greece,0.868
+2016-01-01,Greece,0.866
+2017-01-01,Greece,0.871
+2018-01-01,Greece,0.872
+1990-01-01,Poland,0.712
+2000-01-01,Poland,0.785
+2010-01-01,Poland,0.835
+2013-01-01,Poland,0.851
+2015-01-01,Poland,0.858
+2016-01-01,Poland,0.864
+2017-01-01,Poland,0.868
+2018-01-01,Poland,0.872
+1990-01-01,Lithuania,0.732
+2000-01-01,Lithuania,0.755
+2010-01-01,Lithuania,0.824
+2013-01-01,Lithuania,0.840
+2015-01-01,Lithuania,0.855
+2016-01-01,Lithuania,0.860
+2017-01-01,Lithuania,0.866
+2018-01-01,Lithuania,0.869
+1990-01-01,United Arab Emirates,0.723
+2000-01-01,United Arab Emirates,0.782
+2010-01-01,United Arab Emirates,0.821
+2013-01-01,United Arab Emirates,0.839
+2015-01-01,United Arab Emirates,0.860
+2016-01-01,United Arab Emirates,0.863
+2017-01-01,United Arab Emirates,0.864
+2018-01-01,United Arab Emirates,0.866
+1990-01-01,Andorra,NAN
+2000-01-01,Andorra,0.759
+2010-01-01,Andorra,0.828
+2013-01-01,Andorra,0.846
+2015-01-01,Andorra,0.850
+2016-01-01,Andorra,0.854
+2017-01-01,Andorra,0.852
+2018-01-01,Andorra,0.857
+1990-01-01,Saudi Arabia,0.698
+2000-01-01,Saudi Arabia,0.744
+2010-01-01,Saudi Arabia,0.810
+2013-01-01,Saudi Arabia,0.846
+2015-01-01,Saudi Arabia,0.857
+2016-01-01,Saudi Arabia,0.857
+2017-01-01,Saudi Arabia,0.856
+2018-01-01,Saudi Arabia,0.857
+1990-01-01,Slovakia,0.739
+2000-01-01,Slovakia,0.763
+2010-01-01,Slovakia,0.829
+2013-01-01,Slovakia,0.844
+2015-01-01,Slovakia,0.849
+2016-01-01,Slovakia,0.851
+2017-01-01,Slovakia,0.854
+2018-01-01,Slovakia,0.857
+1990-01-01,Latvia,0.698
+2000-01-01,Latvia,0.728
+2010-01-01,Latvia,0.817
+2013-01-01,Latvia,0.834
+2015-01-01,Latvia,0.842
+2016-01-01,Latvia,0.845
+2017-01-01,Latvia,0.849
+2018-01-01,Latvia,0.854
+1990-01-01,Portugal,0.711
+2000-01-01,Portugal,0.785
+2010-01-01,Portugal,0.822
+2013-01-01,Portugal,0.837
+2015-01-01,Portugal,0.843
+2016-01-01,Portugal,0.846
+2017-01-01,Portugal,0.848
+2018-01-01,Portugal,0.850
+1990-01-01,Qatar,0.757
+2000-01-01,Qatar,0.816
+2010-01-01,Qatar,0.834
+2013-01-01,Qatar,0.857
+2015-01-01,Qatar,0.851
+2016-01-01,Qatar,0.847
+2017-01-01,Qatar,0.848
+2018-01-01,Qatar,0.848
+1990-01-01,Chile,0.703
+2000-01-01,Chile,0.753
+2010-01-01,Chile,0.800
+2013-01-01,Chile,0.830
+2015-01-01,Chile,0.839
+2016-01-01,Chile,0.843
+2017-01-01,Chile,0.845
+2018-01-01,Chile,0.847
+1990-01-01,Brunei Darussalam,0.768
+2000-01-01,Brunei Darussalam,0.805
+2010-01-01,Brunei Darussalam,0.832
+2013-01-01,Brunei Darussalam,0.844
+2015-01-01,Brunei Darussalam,0.843
+2016-01-01,Brunei Darussalam,0.844
+2017-01-01,Brunei Darussalam,0.843
+2018-01-01,Brunei Darussalam,0.845
+1990-01-01,Hungary,0.704
+2000-01-01,Hungary,0.769
+2010-01-01,Hungary,0.826
+2013-01-01,Hungary,0.835
+2015-01-01,Hungary,0.835
+2016-01-01,Hungary,0.838
+2017-01-01,Hungary,0.841
+2018-01-01,Hungary,0.845
+1990-01-01,Bahrain,0.736
+2000-01-01,Bahrain,0.792
+2010-01-01,Bahrain,0.796
+2013-01-01,Bahrain,0.807
+2015-01-01,Bahrain,0.834
+2016-01-01,Bahrain,0.839
+2017-01-01,Bahrain,0.839
+2018-01-01,Bahrain,0.838
+1990-01-01,Croatia,0.670
+2000-01-01,Croatia,0.749
+2010-01-01,Croatia,0.811
+2013-01-01,Croatia,0.825
+2015-01-01,Croatia,0.830
+2016-01-01,Croatia,0.832
+2017-01-01,Croatia,0.835
+2018-01-01,Croatia,0.837
+1990-01-01,Oman,NAN
+2000-01-01,Oman,0.704
+2010-01-01,Oman,0.793
+2013-01-01,Oman,0.811
+2015-01-01,Oman,0.827
+2016-01-01,Oman,0.834
+2017-01-01,Oman,0.833
+2018-01-01,Oman,0.834
+1990-01-01,Argentina,0.707
+2000-01-01,Argentina,0.770
+2010-01-01,Argentina,0.818
+2013-01-01,Argentina,0.824
+2015-01-01,Argentina,0.828
+2016-01-01,Argentina,0.828
+2017-01-01,Argentina,0.832
+2018-01-01,Argentina,0.830
+1990-01-01,Russian Federation,0.734
+2000-01-01,Russian Federation,0.721
+2010-01-01,Russian Federation,0.780
+2013-01-01,Russian Federation,0.803
+2015-01-01,Russian Federation,0.813
+2016-01-01,Russian Federation,0.817
+2017-01-01,Russian Federation,0.822
+2018-01-01,Russian Federation,0.824
+1990-01-01,Belarus,NAN
+2000-01-01,Belarus,0.682
+2010-01-01,Belarus,0.792
+2013-01-01,Belarus,0.808
+2015-01-01,Belarus,0.811
+2016-01-01,Belarus,0.812
+2017-01-01,Belarus,0.815
+2018-01-01,Belarus,0.817
+1990-01-01,Kazakhstan,0.690
+2000-01-01,Kazakhstan,0.685
+2010-01-01,Kazakhstan,0.764
+2013-01-01,Kazakhstan,0.791
+2015-01-01,Kazakhstan,0.806
+2016-01-01,Kazakhstan,0.808
+2017-01-01,Kazakhstan,0.813
+2018-01-01,Kazakhstan,0.817
+1990-01-01,Bulgaria,0.694
+2000-01-01,Bulgaria,0.712
+2010-01-01,Bulgaria,0.779
+2013-01-01,Bulgaria,0.792
+2015-01-01,Bulgaria,0.807
+2016-01-01,Bulgaria,0.812
+2017-01-01,Bulgaria,0.813
+2018-01-01,Bulgaria,0.816
+1990-01-01,Montenegro,NAN
+2000-01-01,Montenegro,NAN
+2010-01-01,Montenegro,0.793
+2013-01-01,Montenegro,0.801
+2015-01-01,Montenegro,0.807
+2016-01-01,Montenegro,0.809
+2017-01-01,Montenegro,0.813
+2018-01-01,Montenegro,0.816
+1990-01-01,Romania,0.701
+2000-01-01,Romania,0.709
+2010-01-01,Romania,0.797
+2013-01-01,Romania,0.800
+2015-01-01,Romania,0.806
+2016-01-01,Romania,0.808
+2017-01-01,Romania,0.813
+2018-01-01,Romania,0.816
+1990-01-01,Palau,NAN
+2000-01-01,Palau,0.736
+2010-01-01,Palau,0.776
+2013-01-01,Palau,0.811
+2015-01-01,Palau,0.803
+2016-01-01,Palau,0.808
+2017-01-01,Palau,0.811
+2018-01-01,Palau,0.814
+1990-01-01,Barbados,0.732
+2000-01-01,Barbados,0.771
+2010-01-01,Barbados,0.799
+2013-01-01,Barbados,0.812
+2015-01-01,Barbados,0.812
+2016-01-01,Barbados,0.814
+2017-01-01,Barbados,0.813
+2018-01-01,Barbados,0.813
+1990-01-01,Kuwait,0.712
+2000-01-01,Kuwait,0.786
+2010-01-01,Kuwait,0.794
+2013-01-01,Kuwait,0.798
+2015-01-01,Kuwait,0.807
+2016-01-01,Kuwait,0.809
+2017-01-01,Kuwait,0.809
+2018-01-01,Kuwait,0.808
+1990-01-01,Uruguay,0.692
+2000-01-01,Uruguay,0.742
+2010-01-01,Uruguay,0.774
+2013-01-01,Uruguay,0.797
+2015-01-01,Uruguay,0.802
+2016-01-01,Uruguay,0.806
+2017-01-01,Uruguay,0.807
+2018-01-01,Uruguay,0.808
+1990-01-01,Turkey,0.579
+2000-01-01,Turkey,0.655
+2010-01-01,Turkey,0.743
+2013-01-01,Turkey,0.781
+2015-01-01,Turkey,0.800
+2016-01-01,Turkey,0.800
+2017-01-01,Turkey,0.805
+2018-01-01,Turkey,0.806
+1990-01-01,Bahamas,NAN
+2000-01-01,Bahamas,0.787
+2010-01-01,Bahamas,0.795
+2013-01-01,Bahamas,0.797
+2015-01-01,Bahamas,0.799
+2016-01-01,Bahamas,0.800
+2017-01-01,Bahamas,0.804
+2018-01-01,Bahamas,0.805
+1990-01-01,Malaysia,0.644
+2000-01-01,Malaysia,0.724
+2010-01-01,Malaysia,0.773
+2013-01-01,Malaysia,0.787
+2015-01-01,Malaysia,0.797
+2016-01-01,Malaysia,0.801
+2017-01-01,Malaysia,0.802
+2018-01-01,Malaysia,0.804
+1990-01-01,Seychelles,NAN
+2000-01-01,Seychelles,0.712
+2010-01-01,Seychelles,0.762
+2013-01-01,Seychelles,0.782
+2015-01-01,Seychelles,0.801
+2016-01-01,Seychelles,0.801
+2017-01-01,Seychelles,0.800
+2018-01-01,Seychelles,0.801
+1990-01-01,Serbia,0.706
+2000-01-01,Serbia,0.710
+2010-01-01,Serbia,0.762
+2013-01-01,Serbia,0.775
+2015-01-01,Serbia,0.785
+2016-01-01,Serbia,0.791
+2017-01-01,Serbia,0.794
+2018-01-01,Serbia,0.799
+1990-01-01,Trinidad and Tobago,0.667
+2000-01-01,Trinidad and Tobago,0.721
+2010-01-01,Trinidad and Tobago,0.788
+2013-01-01,Trinidad and Tobago,0.787
+2015-01-01,Trinidad and Tobago,0.796
+2016-01-01,Trinidad and Tobago,0.796
+2017-01-01,Trinidad and Tobago,0.799
+2018-01-01,Trinidad and Tobago,0.799
+1990-01-01,Iran (Islamic Republic of),0.577
+2000-01-01,Iran (Islamic Republic of),0.671
+2010-01-01,Iran (Islamic Republic of),0.756
+2013-01-01,Iran (Islamic Republic of),0.785
+2015-01-01,Iran (Islamic Republic of),0.789
+2016-01-01,Iran (Islamic Republic of),0.799
+2017-01-01,Iran (Islamic Republic of),0.799
+2018-01-01,Iran (Islamic Republic of),0.797
+1990-01-01,Mauritius,0.620
+2000-01-01,Mauritius,0.674
+2010-01-01,Mauritius,0.748
+2013-01-01,Mauritius,0.775
+2015-01-01,Mauritius,0.786
+2016-01-01,Mauritius,0.790
+2017-01-01,Mauritius,0.793
+2018-01-01,Mauritius,0.796
+1990-01-01,Panama,0.659
+2000-01-01,Panama,0.719
+2010-01-01,Panama,0.758
+2013-01-01,Panama,0.775
+2015-01-01,Panama,0.782
+2016-01-01,Panama,0.788
+2017-01-01,Panama,0.793
+2018-01-01,Panama,0.795
+1990-01-01,Costa Rica,0.655
+2000-01-01,Costa Rica,0.711
+2010-01-01,Costa Rica,0.754
+2013-01-01,Costa Rica,0.777
+2015-01-01,Costa Rica,0.786
+2016-01-01,Costa Rica,0.789
+2017-01-01,Costa Rica,0.792
+2018-01-01,Costa Rica,0.794
+1990-01-01,Albania,0.644
+2000-01-01,Albania,0.667
+2010-01-01,Albania,0.740
+2013-01-01,Albania,0.781
+2015-01-01,Albania,0.788
+2016-01-01,Albania,0.788
+2017-01-01,Albania,0.789
+2018-01-01,Albania,0.791
+1990-01-01,Georgia,NAN
+2000-01-01,Georgia,0.669
+2010-01-01,Georgia,0.732
+2013-01-01,Georgia,0.756
+2015-01-01,Georgia,0.771
+2016-01-01,Georgia,0.776
+2017-01-01,Georgia,0.783
+2018-01-01,Georgia,0.786
+1990-01-01,Sri Lanka,0.625
+2000-01-01,Sri Lanka,0.687
+2010-01-01,Sri Lanka,0.750
+2013-01-01,Sri Lanka,0.765
+2015-01-01,Sri Lanka,0.772
+2016-01-01,Sri Lanka,0.774
+2017-01-01,Sri Lanka,0.776
+2018-01-01,Sri Lanka,0.780
+1990-01-01,Cuba,0.676
+2000-01-01,Cuba,0.686
+2010-01-01,Cuba,0.776
+2013-01-01,Cuba,0.762
+2015-01-01,Cuba,0.768
+2016-01-01,Cuba,0.771
+2017-01-01,Cuba,0.777
+2018-01-01,Cuba,0.778
+1990-01-01,Saint Kitts and Nevis,NAN
+2000-01-01,Saint Kitts and Nevis,NAN
+2010-01-01,Saint Kitts and Nevis,0.747
+2013-01-01,Saint Kitts and Nevis,0.767
+2015-01-01,Saint Kitts and Nevis,0.769
+2016-01-01,Saint Kitts and Nevis,0.772
+2017-01-01,Saint Kitts and Nevis,0.774
+2018-01-01,Saint Kitts and Nevis,0.777
+1990-01-01,Antigua and Barbuda,NAN
+2000-01-01,Antigua and Barbuda,NAN
+2010-01-01,Antigua and Barbuda,0.771
+2013-01-01,Antigua and Barbuda,0.767
+2015-01-01,Antigua and Barbuda,0.770
+2016-01-01,Antigua and Barbuda,0.772
+2017-01-01,Antigua and Barbuda,0.774
+2018-01-01,Antigua and Barbuda,0.776
+1990-01-01,Bosnia and Herzegovina,NAN
+2000-01-01,Bosnia and Herzegovina,0.669
+2010-01-01,Bosnia and Herzegovina,0.714
+2013-01-01,Bosnia and Herzegovina,0.748
+2015-01-01,Bosnia and Herzegovina,0.755
+2016-01-01,Bosnia and Herzegovina,0.765
+2017-01-01,Bosnia and Herzegovina,0.767
+2018-01-01,Bosnia and Herzegovina,0.769
+1990-01-01,Mexico,0.652
+2000-01-01,Mexico,0.705
+2010-01-01,Mexico,0.739
+2013-01-01,Mexico,0.750
+2015-01-01,Mexico,0.759
+2016-01-01,Mexico,0.764
+2017-01-01,Mexico,0.765
+2018-01-01,Mexico,0.767
+1990-01-01,Thailand,0.574
+2000-01-01,Thailand,0.649
+2010-01-01,Thailand,0.721
+2013-01-01,Thailand,0.731
+2015-01-01,Thailand,0.746
+2016-01-01,Thailand,0.753
+2017-01-01,Thailand,0.762
+2018-01-01,Thailand,0.765
+1990-01-01,Grenada,NAN
+2000-01-01,Grenada,NAN
+2010-01-01,Grenada,0.743
+2013-01-01,Grenada,0.750
+2015-01-01,Grenada,0.756
+2016-01-01,Grenada,0.760
+2017-01-01,Grenada,0.760
+2018-01-01,Grenada,0.763
+1990-01-01,Brazil,0.613
+2000-01-01,Brazil,0.684
+2010-01-01,Brazil,0.726
+2013-01-01,Brazil,0.752
+2015-01-01,Brazil,0.755
+2016-01-01,Brazil,0.757
+2017-01-01,Brazil,0.760
+2018-01-01,Brazil,0.761
+1990-01-01,Colombia,0.600
+2000-01-01,Colombia,0.662
+2010-01-01,Colombia,0.729
+2013-01-01,Colombia,0.746
+2015-01-01,Colombia,0.753
+2016-01-01,Colombia,0.759
+2017-01-01,Colombia,0.760
+2018-01-01,Colombia,0.761
+1990-01-01,Armenia,0.633
+2000-01-01,Armenia,0.649
+2010-01-01,Armenia,0.729
+2013-01-01,Armenia,0.743
+2015-01-01,Armenia,0.748
+2016-01-01,Armenia,0.751
+2017-01-01,Armenia,0.758
+2018-01-01,Armenia,0.760
+1990-01-01,Algeria,0.578
+2000-01-01,Algeria,0.646
+2010-01-01,Algeria,0.730
+2013-01-01,Algeria,0.746
+2015-01-01,Algeria,0.751
+2016-01-01,Algeria,0.755
+2017-01-01,Algeria,0.758
+2018-01-01,Algeria,0.759
+1990-01-01,North Macedonia,NAN
+2000-01-01,North Macedonia,0.669
+2010-01-01,North Macedonia,0.735
+2013-01-01,North Macedonia,0.743
+2015-01-01,North Macedonia,0.753
+2016-01-01,North Macedonia,0.757
+2017-01-01,North Macedonia,0.758
+2018-01-01,North Macedonia,0.759
+1990-01-01,Peru,0.613
+2000-01-01,Peru,0.679
+2010-01-01,Peru,0.721
+2013-01-01,Peru,0.742
+2015-01-01,Peru,0.750
+2016-01-01,Peru,0.755
+2017-01-01,Peru,0.756
+2018-01-01,Peru,0.759
+1990-01-01,China,0.501
+2000-01-01,China,0.591
+2010-01-01,China,0.702
+2013-01-01,China,0.727
+2015-01-01,China,0.742
+2016-01-01,China,0.749
+2017-01-01,China,0.753
+2018-01-01,China,0.758
+1990-01-01,Ecuador,0.642
+2000-01-01,Ecuador,0.669
+2010-01-01,Ecuador,0.716
+2013-01-01,Ecuador,0.751
+2015-01-01,Ecuador,0.758
+2016-01-01,Ecuador,0.756
+2017-01-01,Ecuador,0.757
+2018-01-01,Ecuador,0.758
+1990-01-01,Azerbaijan,NAN
+2000-01-01,Azerbaijan,0.641
+2010-01-01,Azerbaijan,0.732
+2013-01-01,Azerbaijan,0.741
+2015-01-01,Azerbaijan,0.749
+2016-01-01,Azerbaijan,0.749
+2017-01-01,Azerbaijan,0.752
+2018-01-01,Azerbaijan,0.754
+1990-01-01,Ukraine,0.705
+2000-01-01,Ukraine,0.671
+2010-01-01,Ukraine,0.732
+2013-01-01,Ukraine,0.744
+2015-01-01,Ukraine,0.742
+2016-01-01,Ukraine,0.746
+2017-01-01,Ukraine,0.747
+2018-01-01,Ukraine,0.750
+1990-01-01,Dominican Republic,0.593
+2000-01-01,Dominican Republic,0.653
+2010-01-01,Dominican Republic,0.701
+2013-01-01,Dominican Republic,0.712
+2015-01-01,Dominican Republic,0.733
+2016-01-01,Dominican Republic,0.738
+2017-01-01,Dominican Republic,0.741
+2018-01-01,Dominican Republic,0.745
+1990-01-01,Saint Lucia,NAN
+2000-01-01,Saint Lucia,0.694
+2010-01-01,Saint Lucia,0.730
+2013-01-01,Saint Lucia,0.726
+2015-01-01,Saint Lucia,0.736
+2016-01-01,Saint Lucia,0.744
+2017-01-01,Saint Lucia,0.744
+2018-01-01,Saint Lucia,0.745
+1990-01-01,Tunisia,0.569
+2000-01-01,Tunisia,0.653
+2010-01-01,Tunisia,0.717
+2013-01-01,Tunisia,0.725
+2015-01-01,Tunisia,0.731
+2016-01-01,Tunisia,0.736
+2017-01-01,Tunisia,0.738
+2018-01-01,Tunisia,0.739
+1990-01-01,Mongolia,0.583
+2000-01-01,Mongolia,0.589
+2010-01-01,Mongolia,0.697
+2013-01-01,Mongolia,0.728
+2015-01-01,Mongolia,0.736
+2016-01-01,Mongolia,0.730
+2017-01-01,Mongolia,0.729
+2018-01-01,Mongolia,0.735
+1990-01-01,Lebanon,NAN
+2000-01-01,Lebanon,NAN
+2010-01-01,Lebanon,0.751
+2013-01-01,Lebanon,0.741
+2015-01-01,Lebanon,0.728
+2016-01-01,Lebanon,0.725
+2017-01-01,Lebanon,0.732
+2018-01-01,Lebanon,0.730
+1990-01-01,Botswana,0.570
+2000-01-01,Botswana,0.578
+2010-01-01,Botswana,0.660
+2013-01-01,Botswana,0.699
+2015-01-01,Botswana,0.714
+2016-01-01,Botswana,0.719
+2017-01-01,Botswana,0.724
+2018-01-01,Botswana,0.728
+1990-01-01,Saint Vincent and the Grenadines,NAN
+2000-01-01,Saint Vincent and the Grenadines,0.674
+2010-01-01,Saint Vincent and the Grenadines,0.711
+2013-01-01,Saint Vincent and the Grenadines,0.714
+2015-01-01,Saint Vincent and the Grenadines,0.721
+2016-01-01,Saint Vincent and the Grenadines,0.725
+2017-01-01,Saint Vincent and the Grenadines,0.726
+2018-01-01,Saint Vincent and the Grenadines,0.728
+1990-01-01,Jamaica,0.641
+2000-01-01,Jamaica,0.669
+2010-01-01,Jamaica,0.723
+2013-01-01,Jamaica,0.720
+2015-01-01,Jamaica,0.722
+2016-01-01,Jamaica,0.722
+2017-01-01,Jamaica,0.725
+2018-01-01,Jamaica,0.726
+1990-01-01,Venezuela (Bolivarian Republic of),0.638
+2000-01-01,Venezuela (Bolivarian Republic of),0.672
+2010-01-01,Venezuela (Bolivarian Republic of),0.753
+2013-01-01,Venezuela (Bolivarian Republic of),0.772
+2015-01-01,Venezuela (Bolivarian Republic of),0.763
+2016-01-01,Venezuela (Bolivarian Republic of),0.752
+2017-01-01,Venezuela (Bolivarian Republic of),0.735
+2018-01-01,Venezuela (Bolivarian Republic of),0.726
+1990-01-01,Dominica,NAN
+2000-01-01,Dominica,0.694
+2010-01-01,Dominica,0.733
+2013-01-01,Dominica,0.730
+2015-01-01,Dominica,0.729
+2016-01-01,Dominica,0.729
+2017-01-01,Dominica,0.723
+2018-01-01,Dominica,0.724
+1990-01-01,Fiji,0.640
+2000-01-01,Fiji,0.675
+2010-01-01,Fiji,0.694
+2013-01-01,Fiji,0.707
+2015-01-01,Fiji,0.718
+2016-01-01,Fiji,0.718
+2017-01-01,Fiji,0.721
+2018-01-01,Fiji,0.724
+1990-01-01,Paraguay,0.588
+2000-01-01,Paraguay,0.640
+2010-01-01,Paraguay,0.692
+2013-01-01,Paraguay,0.709
+2015-01-01,Paraguay,0.718
+2016-01-01,Paraguay,0.718
+2017-01-01,Paraguay,0.722
+2018-01-01,Paraguay,0.724
+1990-01-01,Suriname,NAN
+2000-01-01,Suriname,NAN
+2010-01-01,Suriname,0.701
+2013-01-01,Suriname,0.724
+2015-01-01,Suriname,0.730
+2016-01-01,Suriname,0.725
+2017-01-01,Suriname,0.722
+2018-01-01,Suriname,0.724
+1990-01-01,Jordan,0.616
+2000-01-01,Jordan,0.702
+2010-01-01,Jordan,0.728
+2013-01-01,Jordan,0.720
+2015-01-01,Jordan,0.721
+2016-01-01,Jordan,0.722
+2017-01-01,Jordan,0.722
+2018-01-01,Jordan,0.723
+1990-01-01,Belize,0.613
+2000-01-01,Belize,0.643
+2010-01-01,Belize,0.693
+2013-01-01,Belize,0.707
+2015-01-01,Belize,0.715
+2016-01-01,Belize,0.722
+2017-01-01,Belize,0.719
+2018-01-01,Belize,0.720
+1990-01-01,Maldives,NAN
+2000-01-01,Maldives,0.610
+2010-01-01,Maldives,0.669
+2013-01-01,Maldives,0.693
+2015-01-01,Maldives,0.709
+2016-01-01,Maldives,0.713
+2017-01-01,Maldives,0.716
+2018-01-01,Maldives,0.719
+1990-01-01,Tonga,0.645
+2000-01-01,Tonga,0.666
+2010-01-01,Tonga,0.692
+2013-01-01,Tonga,0.699
+2015-01-01,Tonga,0.714
+2016-01-01,Tonga,0.715
+2017-01-01,Tonga,0.717
+2018-01-01,Tonga,0.717
+1990-01-01,Philippines,0.590
+2000-01-01,Philippines,0.631
+2010-01-01,Philippines,0.672
+2013-01-01,Philippines,0.692
+2015-01-01,Philippines,0.702
+2016-01-01,Philippines,0.704
+2017-01-01,Philippines,0.709
+2018-01-01,Philippines,0.712
+1990-01-01,Moldova (Republic of),0.653
+2000-01-01,Moldova (Republic of),0.609
+2010-01-01,Moldova (Republic of),0.681
+2013-01-01,Moldova (Republic of),0.702
+2015-01-01,Moldova (Republic of),0.703
+2016-01-01,Moldova (Republic of),0.705
+2017-01-01,Moldova (Republic of),0.709
+2018-01-01,Moldova (Republic of),0.711
+1990-01-01,Turkmenistan,NAN
+2000-01-01,Turkmenistan,NAN
+2010-01-01,Turkmenistan,0.673
+2013-01-01,Turkmenistan,0.691
+2015-01-01,Turkmenistan,0.701
+2016-01-01,Turkmenistan,0.706
+2017-01-01,Turkmenistan,0.708
+2018-01-01,Turkmenistan,0.710
+1990-01-01,Uzbekistan,NAN
+2000-01-01,Uzbekistan,0.596
+2010-01-01,Uzbekistan,0.665
+2013-01-01,Uzbekistan,0.688
+2015-01-01,Uzbekistan,0.696
+2016-01-01,Uzbekistan,0.701
+2017-01-01,Uzbekistan,0.707
+2018-01-01,Uzbekistan,0.710
+1990-01-01,Libya,0.676
+2000-01-01,Libya,0.728
+2010-01-01,Libya,0.757
+2013-01-01,Libya,0.707
+2015-01-01,Libya,0.691
+2016-01-01,Libya,0.690
+2017-01-01,Libya,0.704
+2018-01-01,Libya,0.708
+1990-01-01,Indonesia,0.525
+2000-01-01,Indonesia,0.604
+2010-01-01,Indonesia,0.666
+2013-01-01,Indonesia,0.688
+2015-01-01,Indonesia,0.696
+2016-01-01,Indonesia,0.700
+2017-01-01,Indonesia,0.704
+2018-01-01,Indonesia,0.707
+1990-01-01,Samoa,0.621
+2000-01-01,Samoa,0.638
+2010-01-01,Samoa,0.690
+2013-01-01,Samoa,0.696
+2015-01-01,Samoa,0.699
+2016-01-01,Samoa,0.704
+2017-01-01,Samoa,0.706
+2018-01-01,Samoa,0.707
+1990-01-01,South Africa,0.625
+2000-01-01,South Africa,0.629
+2010-01-01,South Africa,0.662
+2013-01-01,South Africa,0.683
+2015-01-01,South Africa,0.699
+2016-01-01,South Africa,0.702
+2017-01-01,South Africa,0.704
+2018-01-01,South Africa,0.705
+1990-01-01,Bolivia (Plurinational State of),0.540
+2000-01-01,Bolivia (Plurinational State of),0.616
+2010-01-01,Bolivia (Plurinational State of),0.655
+2013-01-01,Bolivia (Plurinational State of),0.673
+2015-01-01,Bolivia (Plurinational State of),0.685
+2016-01-01,Bolivia (Plurinational State of),0.692
+2017-01-01,Bolivia (Plurinational State of),0.700
+2018-01-01,Bolivia (Plurinational State of),0.703
+1990-01-01,Gabon,0.619
+2000-01-01,Gabon,0.627
+2010-01-01,Gabon,0.658
+2013-01-01,Gabon,0.679
+2015-01-01,Gabon,0.692
+2016-01-01,Gabon,0.696
+2017-01-01,Gabon,0.700
+2018-01-01,Gabon,0.702
+1990-01-01,Egypt,0.546
+2000-01-01,Egypt,0.611
+2010-01-01,Egypt,0.666
+2013-01-01,Egypt,0.681
+2015-01-01,Egypt,0.690
+2016-01-01,Egypt,0.695
+2017-01-01,Egypt,0.696
+2018-01-01,Egypt,0.700
+1990-01-01,Marshall Islands,NAN
+2000-01-01,Marshall Islands,NAN
+2010-01-01,Marshall Islands,NAN
+2013-01-01,Marshall Islands,NAN
+2015-01-01,Marshall Islands,NAN
+2016-01-01,Marshall Islands,NAN
+2017-01-01,Marshall Islands,0.696
+2018-01-01,Marshall Islands,0.698
+1990-01-01,Viet Nam,0.475
+2000-01-01,Viet Nam,0.578
+2010-01-01,Viet Nam,0.653
+2013-01-01,Viet Nam,0.673
+2015-01-01,Viet Nam,0.680
+2016-01-01,Viet Nam,0.685
+2017-01-01,Viet Nam,0.690
+2018-01-01,Viet Nam,0.693
+1990-01-01,"Palestine, State of",NAN
+2000-01-01,"Palestine, State of",NAN
+2010-01-01,"Palestine, State of",0.671
+2013-01-01,"Palestine, State of",0.681
+2015-01-01,"Palestine, State of",0.685
+2016-01-01,"Palestine, State of",0.687
+2017-01-01,"Palestine, State of",0.689
+2018-01-01,"Palestine, State of",0.690
+1990-01-01,Iraq,0.574
+2000-01-01,Iraq,0.608
+2010-01-01,Iraq,0.652
+2013-01-01,Iraq,0.662
+2015-01-01,Iraq,0.665
+2016-01-01,Iraq,0.672
+2017-01-01,Iraq,0.684
+2018-01-01,Iraq,0.689
+1990-01-01,Morocco,0.458
+2000-01-01,Morocco,0.531
+2010-01-01,Morocco,0.618
+2013-01-01,Morocco,0.646
+2015-01-01,Morocco,0.660
+2016-01-01,Morocco,0.669
+2017-01-01,Morocco,0.675
+2018-01-01,Morocco,0.676
+1990-01-01,Kyrgyzstan,0.618
+2000-01-01,Kyrgyzstan,0.594
+2010-01-01,Kyrgyzstan,0.636
+2013-01-01,Kyrgyzstan,0.658
+2015-01-01,Kyrgyzstan,0.666
+2016-01-01,Kyrgyzstan,0.669
+2017-01-01,Kyrgyzstan,0.671
+2018-01-01,Kyrgyzstan,0.674
+1990-01-01,Guyana,0.537
+2000-01-01,Guyana,0.606
+2010-01-01,Guyana,0.639
+2013-01-01,Guyana,0.656
+2015-01-01,Guyana,0.663
+2016-01-01,Guyana,0.666
+2017-01-01,Guyana,0.668
+2018-01-01,Guyana,0.670
+1990-01-01,El Salvador,0.529
+2000-01-01,El Salvador,0.608
+2010-01-01,El Salvador,0.659
+2013-01-01,El Salvador,0.662
+2015-01-01,El Salvador,0.660
+2016-01-01,El Salvador,0.662
+2017-01-01,El Salvador,0.665
+2018-01-01,El Salvador,0.667
+1990-01-01,Tajikistan,0.603
+2000-01-01,Tajikistan,0.538
+2010-01-01,Tajikistan,0.630
+2013-01-01,Tajikistan,0.643
+2015-01-01,Tajikistan,0.642
+2016-01-01,Tajikistan,0.647
+2017-01-01,Tajikistan,0.651
+2018-01-01,Tajikistan,0.656
+1990-01-01,Cabo Verde,NAN
+2000-01-01,Cabo Verde,0.564
+2010-01-01,Cabo Verde,0.626
+2013-01-01,Cabo Verde,0.641
+2015-01-01,Cabo Verde,0.643
+2016-01-01,Cabo Verde,0.645
+2017-01-01,Cabo Verde,0.647
+2018-01-01,Cabo Verde,0.651
+1990-01-01,Guatemala,0.477
+2000-01-01,Guatemala,0.546
+2010-01-01,Guatemala,0.602
+2013-01-01,Guatemala,0.616
+2015-01-01,Guatemala,0.647
+2016-01-01,Guatemala,0.648
+2017-01-01,Guatemala,0.649
+2018-01-01,Guatemala,0.651
+1990-01-01,Nicaragua,0.494
+2000-01-01,Nicaragua,0.568
+2010-01-01,Nicaragua,0.614
+2013-01-01,Nicaragua,0.630
+2015-01-01,Nicaragua,0.644
+2016-01-01,Nicaragua,0.649
+2017-01-01,Nicaragua,0.653
+2018-01-01,Nicaragua,0.651
+1990-01-01,India,0.431
+2000-01-01,India,0.497
+2010-01-01,India,0.581
+2013-01-01,India,0.607
+2015-01-01,India,0.627
+2016-01-01,India,0.637
+2017-01-01,India,0.643
+2018-01-01,India,0.647
+1990-01-01,Namibia,0.579
+2000-01-01,Namibia,0.543
+2010-01-01,Namibia,0.588
+2013-01-01,Namibia,0.622
+2015-01-01,Namibia,0.637
+2016-01-01,Namibia,0.639
+2017-01-01,Namibia,0.643
+2018-01-01,Namibia,0.645
+1990-01-01,Timor-Leste,NAN
+2000-01-01,Timor-Leste,0.505
+2010-01-01,Timor-Leste,0.620
+2013-01-01,Timor-Leste,0.613
+2015-01-01,Timor-Leste,0.628
+2016-01-01,Timor-Leste,0.628
+2017-01-01,Timor-Leste,0.624
+2018-01-01,Timor-Leste,0.626
+1990-01-01,Honduras,0.508
+2000-01-01,Honduras,0.555
+2010-01-01,Honduras,0.598
+2013-01-01,Honduras,0.603
+2015-01-01,Honduras,0.613
+2016-01-01,Honduras,0.618
+2017-01-01,Honduras,0.621
+2018-01-01,Honduras,0.623
+1990-01-01,Kiribati,NAN
+2000-01-01,Kiribati,0.564
+2010-01-01,Kiribati,0.589
+2013-01-01,Kiribati,0.605
+2015-01-01,Kiribati,0.619
+2016-01-01,Kiribati,0.622
+2017-01-01,Kiribati,0.623
+2018-01-01,Kiribati,0.623
+1990-01-01,Bhutan,NAN
+2000-01-01,Bhutan,NAN
+2010-01-01,Bhutan,0.571
+2013-01-01,Bhutan,0.594
+2015-01-01,Bhutan,0.606
+2016-01-01,Bhutan,0.610
+2017-01-01,Bhutan,0.615
+2018-01-01,Bhutan,0.617
+1990-01-01,Bangladesh,0.388
+2000-01-01,Bangladesh,0.470
+2010-01-01,Bangladesh,0.549
+2013-01-01,Bangladesh,0.572
+2015-01-01,Bangladesh,0.588
+2016-01-01,Bangladesh,0.599
+2017-01-01,Bangladesh,0.609
+2018-01-01,Bangladesh,0.614
+1990-01-01,Micronesia (Federated States of),NAN
+2000-01-01,Micronesia (Federated States of),0.541
+2010-01-01,Micronesia (Federated States of),0.595
+2013-01-01,Micronesia (Federated States of),0.599
+2015-01-01,Micronesia (Federated States of),0.606
+2016-01-01,Micronesia (Federated States of),0.608
+2017-01-01,Micronesia (Federated States of),0.612
+2018-01-01,Micronesia (Federated States of),0.614
+1990-01-01,Sao Tome and Principe,0.437
+2000-01-01,Sao Tome and Principe,0.480
+2010-01-01,Sao Tome and Principe,0.546
+2013-01-01,Sao Tome and Principe,0.568
+2015-01-01,Sao Tome and Principe,0.590
+2016-01-01,Sao Tome and Principe,0.593
+2017-01-01,Sao Tome and Principe,0.603
+2018-01-01,Sao Tome and Principe,0.609
+1990-01-01,Congo,0.531
+2000-01-01,Congo,0.495
+2010-01-01,Congo,0.557
+2013-01-01,Congo,0.581
+2015-01-01,Congo,0.614
+2016-01-01,Congo,0.613
+2017-01-01,Congo,0.609
+2018-01-01,Congo,0.608
+1990-01-01,Eswatini (Kingdom of),0.545
+2000-01-01,Eswatini (Kingdom of),0.468
+2010-01-01,Eswatini (Kingdom of),0.513
+2013-01-01,Eswatini (Kingdom of),0.558
+2015-01-01,Eswatini (Kingdom of),0.585
+2016-01-01,Eswatini (Kingdom of),0.596
+2017-01-01,Eswatini (Kingdom of),0.603
+2018-01-01,Eswatini (Kingdom of),0.608
+1990-01-01,Lao People's Democratic Republic,0.399
+2000-01-01,Lao People's Democratic Republic,0.466
+2010-01-01,Lao People's Democratic Republic,0.546
+2013-01-01,Lao People's Democratic Republic,0.579
+2015-01-01,Lao People's Democratic Republic,0.594
+2016-01-01,Lao People's Democratic Republic,0.598
+2017-01-01,Lao People's Democratic Republic,0.602
+2018-01-01,Lao People's Democratic Republic,0.604
+1990-01-01,Vanuatu,NAN
+2000-01-01,Vanuatu,NAN
+2010-01-01,Vanuatu,0.585
+2013-01-01,Vanuatu,0.588
+2015-01-01,Vanuatu,0.592
+2016-01-01,Vanuatu,0.592
+2017-01-01,Vanuatu,0.595
+2018-01-01,Vanuatu,0.597
+1990-01-01,Ghana,0.454
+2000-01-01,Ghana,0.483
+2010-01-01,Ghana,0.554
+2013-01-01,Ghana,0.578
+2015-01-01,Ghana,0.585
+2016-01-01,Ghana,0.587
+2017-01-01,Ghana,0.591
+2018-01-01,Ghana,0.596
+1990-01-01,Zambia,0.424
+2000-01-01,Zambia,0.428
+2010-01-01,Zambia,0.531
+2013-01-01,Zambia,0.559
+2015-01-01,Zambia,0.570
+2016-01-01,Zambia,0.580
+2017-01-01,Zambia,0.589
+2018-01-01,Zambia,0.591
+1990-01-01,Equatorial Guinea,NAN
+2000-01-01,Equatorial Guinea,0.520
+2010-01-01,Equatorial Guinea,0.580
+2013-01-01,Equatorial Guinea,0.588
+2015-01-01,Equatorial Guinea,0.593
+2016-01-01,Equatorial Guinea,0.592
+2017-01-01,Equatorial Guinea,0.590
+2018-01-01,Equatorial Guinea,0.588
+1990-01-01,Myanmar,0.349
+2000-01-01,Myanmar,0.424
+2010-01-01,Myanmar,0.523
+2013-01-01,Myanmar,0.551
+2015-01-01,Myanmar,0.565
+2016-01-01,Myanmar,0.571
+2017-01-01,Myanmar,0.577
+2018-01-01,Myanmar,0.584
+1990-01-01,Cambodia,0.384
+2000-01-01,Cambodia,0.419
+2010-01-01,Cambodia,0.535
+2013-01-01,Cambodia,0.555
+2015-01-01,Cambodia,0.566
+2016-01-01,Cambodia,0.572
+2017-01-01,Cambodia,0.578
+2018-01-01,Cambodia,0.581
+1990-01-01,Kenya,0.467
+2000-01-01,Kenya,0.446
+2010-01-01,Kenya,0.533
+2013-01-01,Kenya,0.551
+2015-01-01,Kenya,0.562
+2016-01-01,Kenya,0.568
+2017-01-01,Kenya,0.574
+2018-01-01,Kenya,0.579
+1990-01-01,Nepal,0.380
+2000-01-01,Nepal,0.446
+2010-01-01,Nepal,0.527
+2013-01-01,Nepal,0.555
+2015-01-01,Nepal,0.568
+2016-01-01,Nepal,0.572
+2017-01-01,Nepal,0.574
+2018-01-01,Nepal,0.579
+1990-01-01,Angola,NAN
+2000-01-01,Angola,0.394
+2010-01-01,Angola,0.510
+2013-01-01,Angola,0.547
+2015-01-01,Angola,0.565
+2016-01-01,Angola,0.570
+2017-01-01,Angola,0.576
+2018-01-01,Angola,0.574
+1990-01-01,Cameroon,0.445
+2000-01-01,Cameroon,0.438
+2010-01-01,Cameroon,0.471
+2013-01-01,Cameroon,0.531
+2015-01-01,Cameroon,0.548
+2016-01-01,Cameroon,0.556
+2017-01-01,Cameroon,0.560
+2018-01-01,Cameroon,0.563
+1990-01-01,Zimbabwe,0.498
+2000-01-01,Zimbabwe,0.452
+2010-01-01,Zimbabwe,0.472
+2013-01-01,Zimbabwe,0.527
+2015-01-01,Zimbabwe,0.543
+2016-01-01,Zimbabwe,0.549
+2017-01-01,Zimbabwe,0.553
+2018-01-01,Zimbabwe,0.563
+1990-01-01,Pakistan,0.404
+2000-01-01,Pakistan,0.449
+2010-01-01,Pakistan,0.524
+2013-01-01,Pakistan,0.537
+2015-01-01,Pakistan,0.550
+2016-01-01,Pakistan,0.556
+2017-01-01,Pakistan,0.558
+2018-01-01,Pakistan,0.560
+1990-01-01,Solomon Islands,NAN
+2000-01-01,Solomon Islands,0.476
+2010-01-01,Solomon Islands,0.524
+2013-01-01,Solomon Islands,0.550
+2015-01-01,Solomon Islands,0.555
+2016-01-01,Solomon Islands,0.553
+2017-01-01,Solomon Islands,0.555
+2018-01-01,Solomon Islands,0.557
+1990-01-01,Syrian Arab Republic,0.558
+2000-01-01,Syrian Arab Republic,0.590
+2010-01-01,Syrian Arab Republic,0.644
+2013-01-01,Syrian Arab Republic,0.572
+2015-01-01,Syrian Arab Republic,0.540
+2016-01-01,Syrian Arab Republic,0.539
+2017-01-01,Syrian Arab Republic,0.544
+2018-01-01,Syrian Arab Republic,0.549
+1990-01-01,Papua New Guinea,0.377
+2000-01-01,Papua New Guinea,0.436
+2010-01-01,Papua New Guinea,0.510
+2013-01-01,Papua New Guinea,0.521
+2015-01-01,Papua New Guinea,0.539
+2016-01-01,Papua New Guinea,0.541
+2017-01-01,Papua New Guinea,0.543
+2018-01-01,Papua New Guinea,0.543
+1990-01-01,Comoros,NAN
+2000-01-01,Comoros,0.457
+2010-01-01,Comoros,0.513
+2013-01-01,Comoros,0.532
+2015-01-01,Comoros,0.535
+2016-01-01,Comoros,0.537
+2017-01-01,Comoros,0.539
+2018-01-01,Comoros,0.538
+1990-01-01,Rwanda,0.245
+2000-01-01,Rwanda,0.337
+2010-01-01,Rwanda,0.488
+2013-01-01,Rwanda,0.506
+2015-01-01,Rwanda,0.515
+2016-01-01,Rwanda,0.525
+2017-01-01,Rwanda,0.529
+2018-01-01,Rwanda,0.536
+1990-01-01,Nigeria,NAN
+2000-01-01,Nigeria,NAN
+2010-01-01,Nigeria,0.484
+2013-01-01,Nigeria,0.520
+2015-01-01,Nigeria,0.527
+2016-01-01,Nigeria,0.528
+2017-01-01,Nigeria,0.533
+2018-01-01,Nigeria,0.534
+1990-01-01,Tanzania (United Republic of),0.373
+2000-01-01,Tanzania (United Republic of),0.395
+2010-01-01,Tanzania (United Republic of),0.487
+2013-01-01,Tanzania (United Republic of),0.503
+2015-01-01,Tanzania (United Republic of),0.519
+2016-01-01,Tanzania (United Republic of),0.518
+2017-01-01,Tanzania (United Republic of),0.522
+2018-01-01,Tanzania (United Republic of),0.528
+1990-01-01,Uganda,0.312
+2000-01-01,Uganda,0.395
+2010-01-01,Uganda,0.489
+2013-01-01,Uganda,0.503
+2015-01-01,Uganda,0.515
+2016-01-01,Uganda,0.520
+2017-01-01,Uganda,0.522
+2018-01-01,Uganda,0.528
+1990-01-01,Mauritania,0.378
+2000-01-01,Mauritania,0.446
+2010-01-01,Mauritania,0.490
+2013-01-01,Mauritania,0.511
+2015-01-01,Mauritania,0.521
+2016-01-01,Mauritania,0.519
+2017-01-01,Mauritania,0.524
+2018-01-01,Mauritania,0.527
+1990-01-01,Madagascar,NAN
+2000-01-01,Madagascar,0.456
+2010-01-01,Madagascar,0.504
+2013-01-01,Madagascar,0.509
+2015-01-01,Madagascar,0.514
+2016-01-01,Madagascar,0.515
+2017-01-01,Madagascar,0.518
+2018-01-01,Madagascar,0.521
+1990-01-01,Benin,0.348
+2000-01-01,Benin,0.398
+2010-01-01,Benin,0.473
+2013-01-01,Benin,0.500
+2015-01-01,Benin,0.510
+2016-01-01,Benin,0.512
+2017-01-01,Benin,0.515
+2018-01-01,Benin,0.520
+1990-01-01,Lesotho,0.488
+2000-01-01,Lesotho,0.444
+2010-01-01,Lesotho,0.461
+2013-01-01,Lesotho,0.486
+2015-01-01,Lesotho,0.499
+2016-01-01,Lesotho,0.507
+2017-01-01,Lesotho,0.514
+2018-01-01,Lesotho,0.518
+1990-01-01,Côte d'Ivoire,0.391
+2000-01-01,Côte d'Ivoire,0.407
+2010-01-01,Côte d'Ivoire,0.454
+2013-01-01,Côte d'Ivoire,0.475
+2015-01-01,Côte d'Ivoire,0.494
+2016-01-01,Côte d'Ivoire,0.508
+2017-01-01,Côte d'Ivoire,0.512
+2018-01-01,Côte d'Ivoire,0.516
+1990-01-01,Senegal,0.377
+2000-01-01,Senegal,0.390
+2010-01-01,Senegal,0.468
+2013-01-01,Senegal,0.494
+2015-01-01,Senegal,0.504
+2016-01-01,Senegal,0.506
+2017-01-01,Senegal,0.510
+2018-01-01,Senegal,0.514
+1990-01-01,Togo,0.405
+2000-01-01,Togo,0.426
+2010-01-01,Togo,0.468
+2013-01-01,Togo,0.490
+2015-01-01,Togo,0.502
+2016-01-01,Togo,0.506
+2017-01-01,Togo,0.510
+2018-01-01,Togo,0.513
+1990-01-01,Sudan,0.332
+2000-01-01,Sudan,0.403
+2010-01-01,Sudan,0.471
+2013-01-01,Sudan,0.477
+2015-01-01,Sudan,0.501
+2016-01-01,Sudan,0.505
+2017-01-01,Sudan,0.507
+2018-01-01,Sudan,0.507
+1990-01-01,Haiti,0.412
+2000-01-01,Haiti,0.440
+2010-01-01,Haiti,0.467
+2013-01-01,Haiti,0.483
+2015-01-01,Haiti,0.492
+2016-01-01,Haiti,0.497
+2017-01-01,Haiti,0.501
+2018-01-01,Haiti,0.503
+1990-01-01,Afghanistan,0.298
+2000-01-01,Afghanistan,0.345
+2010-01-01,Afghanistan,0.464
+2013-01-01,Afghanistan,0.485
+2015-01-01,Afghanistan,0.490
+2016-01-01,Afghanistan,0.491
+2017-01-01,Afghanistan,0.493
+2018-01-01,Afghanistan,0.496
+1990-01-01,Djibouti,NAN
+2000-01-01,Djibouti,0.361
+2010-01-01,Djibouti,0.446
+2013-01-01,Djibouti,0.467
+2015-01-01,Djibouti,0.482
+2016-01-01,Djibouti,0.489
+2017-01-01,Djibouti,0.492
+2018-01-01,Djibouti,0.495
+1990-01-01,Malawi,0.303
+2000-01-01,Malawi,0.362
+2010-01-01,Malawi,0.437
+2013-01-01,Malawi,0.463
+2015-01-01,Malawi,0.475
+2016-01-01,Malawi,0.478
+2017-01-01,Malawi,0.482
+2018-01-01,Malawi,0.485
+1990-01-01,Ethiopia,NAN
+2000-01-01,Ethiopia,0.283
+2010-01-01,Ethiopia,0.412
+2013-01-01,Ethiopia,0.439
+2015-01-01,Ethiopia,0.453
+2016-01-01,Ethiopia,0.460
+2017-01-01,Ethiopia,0.466
+2018-01-01,Ethiopia,0.470
+1990-01-01,Gambia,0.328
+2000-01-01,Gambia,0.382
+2010-01-01,Gambia,0.437
+2013-01-01,Gambia,0.448
+2015-01-01,Gambia,0.454
+2016-01-01,Gambia,0.456
+2017-01-01,Gambia,0.459
+2018-01-01,Gambia,0.466
+1990-01-01,Guinea,0.278
+2000-01-01,Guinea,0.335
+2010-01-01,Guinea,0.408
+2013-01-01,Guinea,0.439
+2015-01-01,Guinea,0.449
+2016-01-01,Guinea,0.456
+2017-01-01,Guinea,0.463
+2018-01-01,Guinea,0.466
+1990-01-01,Liberia,NAN
+2000-01-01,Liberia,0.422
+2010-01-01,Liberia,0.441
+2013-01-01,Liberia,0.463
+2015-01-01,Liberia,0.463
+2016-01-01,Liberia,0.463
+2017-01-01,Liberia,0.466
+2018-01-01,Liberia,0.465
+1990-01-01,Yemen,0.392
+2000-01-01,Yemen,0.432
+2010-01-01,Yemen,0.499
+2013-01-01,Yemen,0.506
+2015-01-01,Yemen,0.493
+2016-01-01,Yemen,0.477
+2017-01-01,Yemen,0.463
+2018-01-01,Yemen,0.463
+1990-01-01,Guinea-Bissau,NAN
+2000-01-01,Guinea-Bissau,NAN
+2010-01-01,Guinea-Bissau,0.426
+2013-01-01,Guinea-Bissau,0.441
+2015-01-01,Guinea-Bissau,0.453
+2016-01-01,Guinea-Bissau,0.457
+2017-01-01,Guinea-Bissau,0.460
+2018-01-01,Guinea-Bissau,0.461
+1990-01-01,Congo (Democratic Republic of the),0.377
+2000-01-01,Congo (Democratic Republic of the),0.333
+2010-01-01,Congo (Democratic Republic of the),0.416
+2013-01-01,Congo (Democratic Republic of the),0.429
+2015-01-01,Congo (Democratic Republic of the),0.445
+2016-01-01,Congo (Democratic Republic of the),0.453
+2017-01-01,Congo (Democratic Republic of the),0.456
+2018-01-01,Congo (Democratic Republic of the),0.459
+1990-01-01,Mozambique,0.217
+2000-01-01,Mozambique,0.301
+2010-01-01,Mozambique,0.396
+2013-01-01,Mozambique,0.412
+2015-01-01,Mozambique,0.428
+2016-01-01,Mozambique,0.435
+2017-01-01,Mozambique,0.442
+2018-01-01,Mozambique,0.446
+1990-01-01,Sierra Leone,0.270
+2000-01-01,Sierra Leone,0.298
+2010-01-01,Sierra Leone,0.391
+2013-01-01,Sierra Leone,0.426
+2015-01-01,Sierra Leone,0.422
+2016-01-01,Sierra Leone,0.423
+2017-01-01,Sierra Leone,0.435
+2018-01-01,Sierra Leone,0.438
+1990-01-01,Burkina Faso,NAN
+2000-01-01,Burkina Faso,0.286
+2010-01-01,Burkina Faso,0.375
+2013-01-01,Burkina Faso,0.401
+2015-01-01,Burkina Faso,0.413
+2016-01-01,Burkina Faso,0.420
+2017-01-01,Burkina Faso,0.429
+2018-01-01,Burkina Faso,0.434
+1990-01-01,Eritrea,NAN
+2000-01-01,Eritrea,NAN
+2010-01-01,Eritrea,0.433
+2013-01-01,Eritrea,0.425
+2015-01-01,Eritrea,0.433
+2016-01-01,Eritrea,0.434
+2017-01-01,Eritrea,0.431
+2018-01-01,Eritrea,0.434
+1990-01-01,Mali,0.231
+2000-01-01,Mali,0.308
+2010-01-01,Mali,0.403
+2013-01-01,Mali,0.408
+2015-01-01,Mali,0.412
+2016-01-01,Mali,0.420
+2017-01-01,Mali,0.426
+2018-01-01,Mali,0.427
+1990-01-01,Burundi,0.295
+2000-01-01,Burundi,0.293
+2010-01-01,Burundi,0.402
+2013-01-01,Burundi,0.422
+2015-01-01,Burundi,0.427
+2016-01-01,Burundi,0.427
+2017-01-01,Burundi,0.421
+2018-01-01,Burundi,0.423
+1990-01-01,South Sudan,NAN
+2000-01-01,South Sudan,NAN
+2010-01-01,South Sudan,0.425
+2013-01-01,South Sudan,0.439
+2015-01-01,South Sudan,0.428
+2016-01-01,South Sudan,0.418
+2017-01-01,South Sudan,0.414
+2018-01-01,South Sudan,0.413
+1990-01-01,Chad,NAN
+2000-01-01,Chad,0.298
+2010-01-01,Chad,0.374
+2013-01-01,Chad,0.399
+2015-01-01,Chad,0.403
+2016-01-01,Chad,0.398
+2017-01-01,Chad,0.401
+2018-01-01,Chad,0.401
+1990-01-01,Central African Republic,0.320
+2000-01-01,Central African Republic,0.307
+2010-01-01,Central African Republic,0.355
+2013-01-01,Central African Republic,0.351
+2015-01-01,Central African Republic,0.362
+2016-01-01,Central African Republic,0.372
+2017-01-01,Central African Republic,0.376
+2018-01-01,Central African Republic,0.381
+1990-01-01,Niger,0.213
+2000-01-01,Niger,0.253
+2010-01-01,Niger,0.319
+2013-01-01,Niger,0.345
+2015-01-01,Niger,0.360
+2016-01-01,Niger,0.365
+2017-01-01,Niger,0.373
+2018-01-01,Niger,0.377
